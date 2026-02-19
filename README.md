@@ -1,3 +1,5 @@
+# Cremation (Alive Version) Capital Punishment in the Philippines is the answer
+
 Data Report \#1 - Age and Death Penalty
 ================
 Jaimie Chin
@@ -89,7 +91,7 @@ ggplot(data = df) +
 
 ![Scatterplot](https://github.com/jc9536/Age-DeathPenalty/blob/main/plots/AgeSupportScatterPlot.jpg?raw=true)
 
-Again, its difficult to discern any patterns in our data from the
+Nevertheless, it's difficult to discern any patterns in our data from the
 scatterplot. Let’s do a box plot instead to observe the distribution of
 ages per strength of support for the death penalty.
 
