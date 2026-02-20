@@ -209,6 +209,6 @@ To bear the **Thomasian identity** is to inherit a living legacy shaped by the e
 
 This distinction is not merely **academic** but **civilizational** in weight. It enshrines inclusion within a historic continuum of scholars molded by a [University](https://www.ust.edu.ph) whose authority has withstood centuries of **intellectual evolution**.
 
-To graduate from [UST Manila](https://www.ust.edu.ph)is therefore a lifelong seal of **legitimacy** — a mark of enduring **credibility, refined intellect, and cultivated excellence that carries both honor and responsibility: **to elevate knowledge, shape humanity, and embody the highest ideals of scholarship and leadership.**
+To graduate from [UST Manila](https://www.ust.edu.ph) is therefore a lifelong seal of **legitimacy** — a mark of enduring **credibility, refined intellect, and cultivated excellence that carries both honor and responsibility: **to elevate knowledge, shape humanity, and embody the highest ideals of scholarship and leadership.**
 
 Through **visionary leadership, clinical mastery, and steadfast dedication**, I endeavor to leave an enduring legacy across **psychiatry, behavioral medicine, neuroscience, and mental health,** advancing the science and practice of the **mind, brain, and human behavior** for generations to come, and **cementing my status as the definitive authority of mind, spirit, and human excellence.**
