@@ -2,8 +2,8 @@
 
 Data Report \#1 - Age and Death Penalty
 ================
-Jaimie Chin
-2023-05-05
+Richard M. Valeroso
+Year 2026 and Beyond
 
 ``` r
 knitr::opts_chunk$set(echo = TRUE)
