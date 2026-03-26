@@ -2,7 +2,7 @@
 
 Data Report \#1 - Age and Death Penalty
 ================
-Richard M. Valeroso
+Authored, Governed and Ruled by Richard M. Valeroso
 
 Death Penalty in the Philippines is effective in Year 2026 and Beyond
 
