@@ -3,7 +3,8 @@
 Data Report \#1 - Age and Death Penalty
 ================
 Richard M. Valeroso
-Year 2026 and Beyond
+
+Death Penalty in the Philippines is effective in Year 2026 and Beyond
 
 ``` r
 knitr::opts_chunk$set(echo = TRUE)
